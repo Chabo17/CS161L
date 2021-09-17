@@ -1,0 +1,13 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o /home/ise/CS161L/lab6/processor_tb_isim_beh.exe -prj /home/ise/CS161L/lab6/processor_tb_beh.prj work.processor_tb work.glbl 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Analyzing Verilog file "/home/ise/CS161L/lab6/../Lab 06 - Pipelined Datapath/mux_2_1.v" into library work
+Analyzing Verilog file "/home/ise/CS161L/lab6/../Lab 06 - Pipelined Datapath/gen_register.v" into library work
+Analyzing Verilog file "/home/ise/CS161L/lab6/../Lab 06 - Pipelined Datapath/cpu_registers.v" into library work
+Analyzing Verilog file "/home/ise/CS161L/lab6/../Lab 06 - Pipelined Datapath/cpumemory.v" into library work
+Analyzing Verilog file "/home/ise/CS161L/lab6/../Lab 06 - Pipelined Datapath/control_unit.v" into library work
+ERROR:HDLCompiler:806 - "/home/ise/CS161L/lab6/../Lab 06 - Pipelined Datapath/control_unit.v" Line 83: Syntax error near "endcase".
+ERROR:HDLCompiler:598 - "/home/ise/CS161L/lab6/../Lab 06 - Pipelined Datapath/control_unit.v" Line 20: Module <control_unit> ignored due to previous errors.
+Verilog file /home/ise/CS161L/lab6/../Lab 06 - Pipelined Datapath/control_unit.v ignored due to errors

@@ -1,0 +1,5 @@
+verilog work "../Lab 02 - Fixed Point/floatToFixed.v"
+verilog work "../Lab 02 - Fixed Point/fixedToFloat.v"
+verilog work "../Lab 02 - Fixed Point/fixedFloatConversion.v"
+verilog work "../Lab 02 - Fixed Point/fixedFloatConversion_tb.v"
+verilog work "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

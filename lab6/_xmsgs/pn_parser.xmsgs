@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;/home/ise/CS161L/Lab 06 - Pipelined Datapath/alu.v&quot; into library work</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">/home/ise/CS161L/Lab 06 - Pipelined Datapath/alu.v</arg>&quot; Line <arg fmt="%d" index="2">47</arg>. <arg fmt="%s" index="3">Macro &lt;ALU_AND&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">/home/ise/CS161L/Lab 06 - Pipelined Datapath/alu.v</arg>&quot; Line <arg fmt="%d" index="2">47</arg>. <arg fmt="%s" index="3">Syntax error near &quot;:&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">/home/ise/CS161L/Lab 06 - Pipelined Datapath/alu.v</arg>&quot; Line <arg fmt="%d" index="2">48</arg>. <arg fmt="%s" index="3">Macro &lt;ALU_OR&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">/home/ise/CS161L/Lab 06 - Pipelined Datapath/alu.v</arg>&quot; Line <arg fmt="%d" index="2">48</arg>. <arg fmt="%s" index="3">Syntax error near &quot;:&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">/home/ise/CS161L/Lab 06 - Pipelined Datapath/alu.v</arg>&quot; Line <arg fmt="%d" index="2">49</arg>. <arg fmt="%s" index="3">Macro &lt;ALU_ADD&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">/home/ise/CS161L/Lab 06 - Pipelined Datapath/alu.v</arg>&quot; Line <arg fmt="%d" index="2">49</arg>. <arg fmt="%s" index="3">Syntax error near &quot;:&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">/home/ise/CS161L/Lab 06 - Pipelined Datapath/alu.v</arg>&quot; Line <arg fmt="%d" index="2">50</arg>. <arg fmt="%s" index="3">Macro &lt;ALU_SUBTRACT&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">/home/ise/CS161L/Lab 06 - Pipelined Datapath/alu.v</arg>&quot; Line <arg fmt="%d" index="2">50</arg>. <arg fmt="%s" index="3">Syntax error near &quot;:&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">/home/ise/CS161L/Lab 06 - Pipelined Datapath/alu.v</arg>&quot; Line <arg fmt="%d" index="2">51</arg>. <arg fmt="%s" index="3">Macro &lt;ALU_NOR&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">/home/ise/CS161L/Lab 06 - Pipelined Datapath/alu.v</arg>&quot; Line <arg fmt="%d" index="2">51</arg>. <arg fmt="%s" index="3">Syntax error near &quot;:&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">/home/ise/CS161L/Lab 06 - Pipelined Datapath/alu.v</arg>&quot; Line <arg fmt="%d" index="2">53</arg>. <arg fmt="%s" index="3">Macro &lt;ALU_LESS_THAN&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">/home/ise/CS161L/Lab 06 - Pipelined Datapath/alu.v</arg>&quot; Line <arg fmt="%d" index="2">53</arg>. <arg fmt="%s" index="3">Syntax error near &quot;:&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;/home/ise/CS161L/Lab 06 - Pipelined Datapath/alu_control.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">/home/ise/CS161L/Lab 06 - Pipelined Datapath/alu_control.v</arg>&quot; Line <arg fmt="%d" index="2">18</arg>. <arg fmt="%s" index="3">Include file found: &apos;/home/ise/CS161L/Lab 06 - Pipelined Datapath/cpu_constant_library.v&apos; in file &quot;/home/ise/CS161L/Lab 06 - Pipelined Datapath/alu_control.v&quot; line 18
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;/home/ise/CS161L/Lab 06 - Pipelined Datapath/control_unit.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">/home/ise/CS161L/Lab 06 - Pipelined Datapath/control_unit.v</arg>&quot; Line <arg fmt="%d" index="2">18</arg>. <arg fmt="%s" index="3">Include file found: &apos;/home/ise/CS161L/Lab 06 - Pipelined Datapath/cpu_constant_library.v&apos; in file &quot;/home/ise/CS161L/Lab 06 - Pipelined Datapath/control_unit.v&quot; line 18
+</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">/home/ise/CS161L/Lab 06 - Pipelined Datapath/control_unit.v</arg>&quot; Line <arg fmt="%d" index="2">83</arg>. <arg fmt="%s" index="3">Syntax error near &quot;endcase&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;/home/ise/CS161L/Lab 06 - Pipelined Datapath/cpu_registers.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;/home/ise/CS161L/Lab 06 - Pipelined Datapath/cpumemory.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;/home/ise/CS161L/Lab 06 - Pipelined Datapath/gen_register.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;/home/ise/CS161L/Lab 06 - Pipelined Datapath/mux_2_1.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;/home/ise/CS161L/Lab 06 - Pipelined Datapath/processor.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">/home/ise/CS161L/Lab 06 - Pipelined Datapath/processor.v</arg>&quot; Line <arg fmt="%d" index="2">17</arg>. <arg fmt="%s" index="3">Include file found: &apos;/home/ise/CS161L/Lab 06 - Pipelined Datapath/cpu_constant_library.v&apos; in file &quot;/home/ise/CS161L/Lab 06 - Pipelined Datapath/processor.v&quot; line 17
+</arg>
+</msg>
+
+</messages>
+

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "/home/ise/CS161L/lab2/fixedFloatConversion_tb_isim_beh.exe" -prj "/home/ise/CS161L/lab2/fixedFloatConversion_tb_beh.prj" "work.fixedFloatConversion_tb" "work.glbl" 

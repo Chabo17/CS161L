@@ -1,0 +1,39 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o /home/ise/CS161L/Lab5/processor_tb_isim_beh.exe -prj /home/ise/CS161L/Lab5/processor_tb_beh.prj work.processor_tb work.glbl 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Analyzing Verilog file "/home/ise/CS161L/Lab5/../Lab 05 - Single Cycle Datapath/Lab_05/mux_2_1.v" into library work
+Analyzing Verilog file "/home/ise/CS161L/Lab5/../Lab 05 - Single Cycle Datapath/Lab_05/gen_register.v" into library work
+Analyzing Verilog file "/home/ise/CS161L/Lab5/../Lab 05 - Single Cycle Datapath/Lab_05/cpu_registers.v" into library work
+Analyzing Verilog file "/home/ise/CS161L/Lab5/../Lab 05 - Single Cycle Datapath/Lab_05/cpumemory.v" into library work
+Analyzing Verilog file "/home/ise/CS161L/Lab5/../Lab 05 - Single Cycle Datapath/Lab_05/control_unit.v" into library work
+Analyzing Verilog file "/home/ise/CS161L/Lab5/../Lab 05 - Single Cycle Datapath/Lab_05/alu_control.v" into library work
+Analyzing Verilog file "/home/ise/CS161L/Lab5/../Lab 05 - Single Cycle Datapath/Lab_05/alu.v" into library work
+Analyzing Verilog file "/home/ise/CS161L/Lab5/../Lab 05 - Single Cycle Datapath/Lab_05/processor.v" into library work
+Analyzing Verilog file "/home/ise/CS161L/Lab5/../Lab 05 - Single Cycle Datapath/Lab_05/processor_tb.v" into library work
+Analyzing Verilog file "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:189 - "/home/ise/CS161L/Lab5/../Lab 05 - Single Cycle Datapath/Lab_05/processor.v" Line 101: Size mismatch in connection of port <data_in>. Formal port size is 32-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:189 - "/home/ise/CS161L/Lab5/../Lab 05 - Single Cycle Datapath/Lab_05/processor.v" Line 102: Size mismatch in connection of port <data_out>. Formal port size is 32-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:189 - "/home/ise/CS161L/Lab5/../Lab 05 - Single Cycle Datapath/Lab_05/processor.v" Line 116: Size mismatch in connection of port <data_out>. Formal port size is 32-bit while actual signal size is 1-bit.
+Completed static elaboration
+Fuse Memory Usage: 95492 KB
+Fuse CPU Usage: 510 ms
+Compiling module alu
+Compiling module alu_control
+Compiling module control_unit
+Compiling module cpu_registers
+Compiling module cpumemory
+Compiling module gen_register
+Compiling module mux_2_1
+Compiling module mux_2_1(WORD_SIZE=5)
+Compiling module processor(MEM_FILE="individualIn...
+Compiling module processor_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 11 Verilog Units
+Built simulation executable /home/ise/CS161L/Lab5/processor_tb_isim_beh.exe
+Fuse Memory Usage: 98312 KB
+Fuse CPU Usage: 560 ms
+GCC CPU Usage: 390 ms
