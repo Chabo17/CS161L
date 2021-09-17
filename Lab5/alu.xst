@@ -1,5 +1,0 @@
-set -tmpdir "/home/ise/CS161L/Lab5/xst/projnav.tmp"
-set -xsthdpdir "/home/ise/CS161L/Lab5/xst"
-elaborate
--ifn alu.prj
--ifmt mixed
