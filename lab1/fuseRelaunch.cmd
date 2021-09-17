@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "/home/ise/CS161L/lab1/myalu_isim_beh.exe" -prj "/home/ise/CS161L/lab1/myalu_beh.prj" "work.myalu" "work.glbl" 
